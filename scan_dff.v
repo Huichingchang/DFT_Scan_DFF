@@ -1,4 +1,4 @@
-//scan_dfff.v
+//scan_dff.v
 module scan_dff (
 	input clk,
 	input rst,
